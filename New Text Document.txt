@@ -1,3 +1,0 @@
-MongoDB
-AngularJS,Node.js
-Mern stack or mean stack
